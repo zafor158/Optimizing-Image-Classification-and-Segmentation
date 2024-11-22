@@ -79,6 +79,8 @@ ResNet101V2 is an improved version of the Residual Network (ResNet) and incorpor
 * Batch normalization (BN) and ReLU activation applied before convolution layers.
 * This architecture ensures smoother training and higher performance in deep networks.
 
+ ![image](https://github.com/user-attachments/assets/e341efe3-4008-4294-b8f4-791dbbdd0e8e)
+
 4. InceptionResNetV2
 InceptionResNetV2 combines the strengths of Inception modules and residual connections to:
 
