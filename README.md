@@ -177,6 +177,19 @@ The modifications and optimizations to the VGG16 architecture make it particular
 | **Random Forest**      | 0.9830      |
 | **Decision Tree**      | 0.997       |
 
+## Segmentation Performance Metrics for Various Classes
+
+| **Class** | **Precision** | **Recall** | **F1-Score** | **mAP50** | **mAP50-95** |
+|-----------|---------------|------------|--------------|-----------|--------------|
+| **All**   | 0.500         | 0.648      | 0.56         | 0.538     | 0.303        |
+| **AKIEC** | 0.334         | 0.423      | 0.37         | 0.261     | 0.168        |
+| **BCC**   | 0.425         | 0.829      | 0.56         | 0.468     | 0.229        |
+| **BKL**   | 0.428         | 0.533      | 0.47         | 0.433     | 0.183        |
+| **DF**    | 0.506         | 0.625      | 0.55         | 0.600     | 0.312        |
+| **MEL**   | 0.451         | 0.480      | 0.46         | 0.424     | 0.275        |
+| **NV**    | 0.435         | 0.815      | 0.56         | 0.677     | 0.417        |
+| **VASC**  | 0.923         | 0.828      | 0.87         | 0.906     | 0.543        |
+
 
 # Key Takeaways
 
